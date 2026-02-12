@@ -1,0 +1,7 @@
+git pull
+edit files
+git add .
+git commit -m "message"
+git push
+
+every day command
